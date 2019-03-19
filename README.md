@@ -2,13 +2,13 @@
 
 ==========================
 
-This analysis quantifies the amount of property in England and Wales owned by companies incorporated in secrecy jurisdictions.
+This analysis quantifies the amount of property in England and Wales owned by companies incorporated in secrecy jurisdictions. More information on Global Witness's campaigns anti-money laundering can be found [here](https://www.globalwitness.org/en/campaigns/corruption-and-money-laundering/).
 
-This analysis uses Land Registry data accurate as of 1st January 2019. The dataset used is the [Overseas Companies Ownership dataset](https://www.gov.uk/guidance/hm-land-registry-overseas-companies-ownership-data), it is available free of charge from the Land Registry. It contains information on leaseholds and freeholds in England and Wales owned by non UK registered companies. A country is considered to be a secrecy jurisdiction if it has a secrecy score 60 or above in the [Tax Justice Network Financial Secrecy Index](https://www.financialsecrecyindex.com/). A list of the British crown dependencies and overseas territories can be found [here](https://en.wikipedia.org/wiki/Crown_dependencies) and [here](https://en.wikipedia.org/wiki/British_Overseas_Territories).
+This analysis uses Land Registry data accurate as of 1st January 2019. The dataset used is the [Overseas Companies Ownership dataset](https://www.gov.uk/guidance/hm-land-registry-overseas-companies-ownership-data). It is available free of charge from the Land Registry. It contains information on leaseholds and freeholds in England and Wales owned by non UK registered companies. A country is considered to be a secrecy jurisdiction if it has a secrecy score 60 or above in the [Tax Justice Network Financial Secrecy Index](https://www.financialsecrecyindex.com/). A list of the British crown dependencies and overseas territories can be found [here](https://en.wikipedia.org/wiki/Crown_dependencies) and [here](https://en.wikipedia.org/wiki/British_Overseas_Territories).
 
 ## Press
 
-This analysis was written up in [The Observer on 19th March 2019](https://www.theguardian.com/uk-news/2019/mar/17/100-billion-of-uk-propert-secretly-owned-anonymous-firms-tax-havens). It also appears in a Global Witness blog post [here](https://www.globalwitness.org/en-gb/blog/brexit-chaos-should-not-distract-from-cleaning-up-britains-property-sector/).
+This analysis was written up in [The Observer on 17th March 2019](https://www.theguardian.com/uk-news/2019/mar/17/100-billion-of-uk-propert-secretly-owned-anonymous-firms-tax-havens). It also appears in a Global Witness blog post [here](https://www.globalwitness.org/en-gb/blog/brexit-chaos-should-not-distract-from-cleaning-up-britains-property-sector/).
 
 ## Primary data sources
 
