@@ -53,7 +53,7 @@ Region | String | 	Region name. Name of a geographic region which comprises one 
 Postcode | String | Postcode. Code which is a combination of up to 7 letters and numbers (plus one embedded blank), which defines different levels of geographic units. It is part of a coding system created and used by the post office across the UK, to facilitate the mail service.
 Date_Proprietor_Added | Date | The date a proprietor was added to the register.
 Additional_Proprietor_Indicator | Boolean string (Y/N) | Indicator as to whether there is more than one proprietor for the property.
-Multiple_Address_Indicator | Indicates the title has more than one address.
+Multiple_Address_Indicator | | Indicates the title has more than one address.
 Proprietor_Number | Integer | Ordinal number representing the number of the proprietor in event that there are multiple
 Company_Registration | String | Company Registration Number. Number which is a unique identifier assigned to a company when it is registered at Companies’ House. Although the name of the company may change, the company registration number will remain the same.
 Country_Incorporated | String | The name of the country where the company/territory is incorporated.
